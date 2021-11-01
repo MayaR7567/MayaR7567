@@ -1,4 +1,10 @@
 ### Hi there 👋
+I am a Student at Nottingham Trent University studying Sc(H) Comp Sci (Games Technology) SW
+- 🔭 I’m currently working on finding a placement for the 2021/22 academic year.
+- 🌱 I’m currently learning Unity, Unreal Engine, 3DS Max, Processing, and Linux in my course.
+- 💬 Ask me about my projects from last year like my Dnd Creator-Inator.
+- 📫 How to reach me: www.linkedin.com/in/mayar7567 or mayarhoades7567@gmail.com
+- 😄 Pronouns: She/her
 
 <!--
 **MayaR7567/MayaR7567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
