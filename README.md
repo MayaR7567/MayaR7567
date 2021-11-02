@@ -6,6 +6,9 @@ I am a Student at Nottingham Trent University studying BSc(H) Comp Sci (Games Te
 - 📫 How to reach me: www.linkedin.com/in/mayar7567 or mayarhoades7567@gmail.com
 - 😄 Pronouns: She/her
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mayar7567" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/mayar7567?trk=profile-badge">Maya Rhoades</a></div>
+              
 <!--
 **MayaR7567/MayaR7567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
