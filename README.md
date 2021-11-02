@@ -1,5 +1,5 @@
-### Hi there 👋
-I am a Student at Nottingham Trent University studying Sc(H) Comp Sci (Games Technology) SW
+### Hello There 👋
+I am a Student at Nottingham Trent University studying BSc(H) Comp Sci (Games Technology) SW
 - 🔭 I’m currently working on finding a placement for the 2021/22 academic year.
 - 🌱 I’m currently learning Unity, Unreal Engine, 3DS Max, Processing, and Linux in my course.
 - 💬 Ask me about my projects from last year like my Dnd Creator-Inator.
