@@ -1,6 +1,6 @@
 ### Hello There 👋
 I am a 2nd year Student at Nottingham Trent University studying BSc(H) Comp Sci (Games Technology) SW
-- 🔭 I’m currently working on finding a placement for the 2021/22 academic year.
+- 🔭 I’m currently working on finding a placement for the 2022/23 academic year.
 - 🌱 I’m currently learning Unity, Unreal Engine, 3DS Max, Processing, and Linux in my course.
 - 💬 Ask me about my projects from last year like my Dnd Creator-Inator.
 - 📫 How to reach me: www.linkedin.com/in/mayar7567 or mayarhoades7567@gmail.com
