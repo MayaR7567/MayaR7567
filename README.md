@@ -6,16 +6,16 @@ I am a 2nd year Student at Nottingham Trent University studying BSc(H) Comp Sci 
 - 📫 How to reach me: www.linkedin.com/in/mayar7567 or mayarhoades7567@gmail.com
 - 😄 Pronouns: She/her        
 - ⚡ Fun facts:
-        -I am an only child
-        -I did a pre-engineering program
-        -I love building things by hand.
-        -I enjoy competitions.
+        </br>-I am an only child
+        </br>-I did a pre-engineering program
+        </br>-I love building things by hand.
+        </br>-I enjoy competitions.</br>
 - 😄 Interests
-        -Sci-Fi/Fantasy Books
-        -Marvel
-        -Video Games (Apex, Siege, Overwatch are some of my favourites)
-        -Drawing
-        -Outdoor activities (i.e. paintball, ziplines)
+        </br>-Sci-Fi/Fantasy Books
+        </br>-Marvel
+        </br>-Video Games (Apex, Siege, Overwatch are some of my favourites)
+        </br>-Drawing
+        </br>-Outdoor activities (i.e. paintball, ziplines)
 <!--
 **MayaR7567/MayaR7567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
