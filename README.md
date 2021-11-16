@@ -5,11 +5,6 @@ I am a 2nd year Student at Nottingham Trent University studying BSc(H) Comp Sci 
 - 💬 Ask me about my projects from last year like my Dnd Creator-Inator.
 - 📫 How to reach me: www.linkedin.com/in/mayar7567 or mayarhoades7567@gmail.com
 - 😄 Pronouns: She/her        
-- ⚡ Fun facts:
-        </br>-I am an only child
-        </br>-I did a pre-engineering program
-        </br>-I love building things by hand.
-        </br>-I enjoy competitions.</br>
 - 😄 Interests
         </br>-Sci-Fi/Fantasy Books
         </br>-Marvel
