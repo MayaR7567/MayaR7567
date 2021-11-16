@@ -4,8 +4,18 @@ I am a 2nd year Student at Nottingham Trent University studying BSc(H) Comp Sci 
 - 🌱 I’m currently learning Unity, Unreal Engine, 3DS Max, Processing, and Linux in my course.
 - 💬 Ask me about my projects from last year like my Dnd Creator-Inator.
 - 📫 How to reach me: www.linkedin.com/in/mayar7567 or mayarhoades7567@gmail.com
-- 😄 Pronouns: She/her
-        
+- 😄 Pronouns: She/her        
+- ⚡ Fun facts:
+        -I am an only child
+        -I did a pre-engineering program
+        -I love building things by hand.
+        -I enjoy competitions.
+- 😄 Interests
+        -Sci-Fi/Fantasy Books
+        -Marvel
+        -Video Games (Apex, Siege, Overwatch are some of my favourites)
+        -Drawing
+        -Outdoor activities (i.e. paintball, ziplines)
 <!--
 **MayaR7567/MayaR7567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
