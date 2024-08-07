@@ -1,9 +1,7 @@
 ### Hello There 👋
-I am a final year Student at Nottingham Trent University studying BSc(H) Comp Sci (Games Technology) SW
-- 🔭 I’m currently working on finding a job for after my graduate this summer.
+Junior Software Enginer at Blueprint Gaming
 - 💬 Ask me about my projects from this year such as a a Cat Calorie Tracker App or Ball Navigation Game.
-- 📫 How to reach me: www.linkedin.com/in/mayar7567 or mayarhoades7567@gmail.com
-- 😄 Pronouns: She/her        
+- 📫 How to reach me: www.linkedin.com/in/mayar7567 or mayarhoades7567@gmail.com   
 - 😄 Interests:
         </br>-Sci-Fi/Fantasy Books
         </br>-Marvel
